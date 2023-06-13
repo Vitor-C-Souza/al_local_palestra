@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-06-13 17:34-0300\n"
+"PO-Revision-Date: 2023-06-13 17:47-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: //wsl.localhost/Ubuntu-22.04/opt/lampp/htdocs/alura/wp-"
+"content/plugins/al_local_dia_palestra/includes\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: al_local_dia_palestra_settings.php\n"
+
+#: al_local_dia_palestra_settings.php:8
+msgid "Local Palestra"
+msgstr "Local Lecture"
+
+#: al_local_dia_palestra_settings.php:21
+msgid "Local Palestras"
+msgstr "Lecture Venue"
+
+#: al_local_dia_palestra_settings.php:41
+msgid "Configuraçoes do local da palestra"
+msgstr "Lecture Venue Settings"
+
+#: al_local_dia_palestra_settings.php:49
+msgid "Endereço"
+msgstr "Address"
+
+#: al_local_dia_palestra_settings.php:65
+msgid "Cidade"
+msgstr "City"
+
+#: al_local_dia_palestra_settings.php:80
+msgid "Data"
+msgstr "Date"
+
+#: al_local_dia_palestra_settings.php:98
+msgid ""
+"Insira dados os dados do endereço, cidade, e data da próxima palestra da "
+"Alura"
+msgstr "Enter the address, city, and date of Alura's next lecture"
+
+#: al_local_dia_palestra_settings.php:142
+msgid "O campo endereço não pode ser vazio!"
+msgstr "The address field cannot be empty!"
+
+#: al_local_dia_palestra_settings.php:157
+msgid "O campo cidade não pode ser vazio!"
+msgstr "The field city cannot be empty!"
+
+#: al_local_dia_palestra_settings.php:172
+msgid "O campo data não pode ser vazio!"
+msgstr "The date field cannot be empty!"
